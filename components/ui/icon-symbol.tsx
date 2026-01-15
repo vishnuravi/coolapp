@@ -17,13 +17,18 @@ const MAPPING = {
   'calendar': 'event',
   'person.2.fill': 'people',
   'paperplane.fill': 'send',
+  'fork.knife': 'restaurant',
 
   // UI Elements
   'chevron.left.forwardslash.chevron.right': 'code',
+  'chevron.left': 'chevron-left',
   'chevron.right': 'chevron-right',
   'checkmark': 'check',
   'checkmark.circle.fill': 'check-circle',
   'info.circle.fill': 'info',
+  'clock': 'schedule',
+  'person.2': 'people-outline',
+  'flame': 'local-fire-department',
 
   // Features & Welcome
   'heart.fill': 'favorite',
